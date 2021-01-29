@@ -1,6 +1,6 @@
-//https://hasanshawon.github.io/assignment-3
-// Kilometer to meter convert 
-function kilometerToMeter(kilometer) {
+//https://github.com/hasanshawon/assignment-3
+//kiloMeterToMeter
+function kilometerToMeter(kilometer) 
 
     if (kilometer < 0) {
         // for input negative Value 
